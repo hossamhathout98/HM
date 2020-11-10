@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-printf("Hello world i love you\n");
+printf("Hello world, I love Allah and I love Muhammed\n");
 return 0;}
